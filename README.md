@@ -1,6 +1,8 @@
 
 **NextJs NewsBoard**
-  
+
+![Search Page](https://drive.google.com/uc?export=view&id=1-qrV8Xa6sODeiJdMkWabwr0M-332xh97)
+
 - Pages router version
 - Learned about difference between client and server side rendering.
 - The Important Features of Pages directory.
