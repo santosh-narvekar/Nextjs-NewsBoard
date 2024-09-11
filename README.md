@@ -1,5 +1,5 @@
 
-- **NextJs NewsBoard**
+**NextJs NewsBoard**
   
 - Pages router version
 - Learned about difference between client and server side rendering.
