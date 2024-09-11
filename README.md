@@ -15,4 +15,5 @@
 
 **TECH STACK**
 - NextJS + TypeScript
+- Bootstrap
 - NewsOrg API
